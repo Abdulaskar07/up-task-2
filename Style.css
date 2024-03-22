@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(228, 121, 7);
+    color: white;
+    
+}
+.head{
+    color: darkblue;
+}
+#bglime{
+    background-color: lime;
+}
+.para{
+    color: green;
+}
+.subhead{
+    color: black;
+}
